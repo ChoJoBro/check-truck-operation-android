@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "check-truck-operation-android"
 include ':app'
 include ':data'
+include ':domain'
